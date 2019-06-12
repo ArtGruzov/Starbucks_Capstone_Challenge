@@ -13,7 +13,7 @@ This is my Capstone Udacity Project. Here For this project, I want to build an M
   - <i>became_member_on:</i> (date) format YYYYMMDD
   - <i>income:</i> (numeric)
   
-- <b>portfolio.json:</b> Offers sent during 30-day test period (10 offers x 6 fields) <br> Columns description:
+- <b>profile.json:</b> Offers sent during 30-day test period (10 offers x 6 fields) <br> Columns description:
   - <i>reward:</i>  (numeric) money awarded for the amount spent
   - <i>channels:</i> (list) web, email, mobile, social
   - <i>difficulty:</i> (numeric) money required to be spent to receive reward
